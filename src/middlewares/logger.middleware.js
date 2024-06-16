@@ -1,0 +1,1 @@
+// log request url and body for all routes, excluding the user routes
